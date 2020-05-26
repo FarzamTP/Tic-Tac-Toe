@@ -72,8 +72,8 @@ margin = 50
 gameSize = 1920 - (2 * margin)
 lineSize = 10
 
-backgroundColor = (0, 0, 0)
-lineColor = (255, 255, 255)
+backgroundColor = (255, 255, 255)
+lineColor = (0, 0, 0)
 xColor = (200, 0, 0)
 oColor = (0, 0, 200)
 
