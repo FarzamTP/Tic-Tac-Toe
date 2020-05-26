@@ -4,5 +4,5 @@ Tic Tac Toe game created using pygame and used reinforcement learning algoithms 
 ## TODO
 
  - [x] Initialize working version of the game.
- - [] Building a model to train
- - [] Training a model
+ - [ ] Building a model to train
+ - [ ] Training a model
